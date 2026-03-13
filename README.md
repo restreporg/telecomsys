@@ -3,7 +3,7 @@ Python 3.8 o superior instalado en tu sistema.
 Librerías estándar de Python
 
 descargar en maquina local por git 
-git clone https://github.com/usuario/telecomsys-monolito.git
+git clone https://github.com/restreporg/telecomsys
 
 
 Uso de la aplicación:
